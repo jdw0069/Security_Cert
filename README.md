@@ -2,7 +2,7 @@
 
 * Time: **Thursday's from 5:00pm-6:00pm**
 * Location: **TBD**
-* Test Dates: **Qualification Exam, April 13th or April 10th** | **Exam Date April 17th**
+* Test Dates: **Qualification Exam, TBD** | **Exam Date, TBD**
 
 # Additional Resources
 * [Official Website](https://www.comptia.org/certifications/security)
@@ -117,3 +117,26 @@ procedures related to organizational security
 * 6.3 Given a scenario, install and configure wireless security settings.
 
 * 6.4 Given a scenario, implement public key infrastructure.
+
+# Course Structure
+
+| Dates  | Topics Covered  |
+|:--:|:---:|
+| Week 1 | 1.1 - 1.3   |
+| Week 2   | 1.3 - 1.6 |
+| Week 3  | 2.1 - 2.3  |
+| Week 4  | 2.4 - 2.6  |
+| Week 5  | 3.3 - 3.6  |
+| Week 6  | 4.1 - 4.2  |
+| Week 7  | 4.3 - 4.4  |
+| Week 8  | 5.1 - 5.4  |
+| Week 9  | 5.5 - 5.8  |
+| Week 10 | 6.1 - 6.2  |
+| Week 11 |  6.3 - 6.4 |
+
+
+* #### Week 12
+  * Qualification Exam
+
+* #### Week 13
+  * Exam Day
