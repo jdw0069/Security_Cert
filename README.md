@@ -1,20 +1,20 @@
-# Adminstrative Items
+# Administrative Items
 
 * Time: **Thursday's from 5:00pm-6:00pm**
 * Location: **TBD**
-* Test Dates: **Qualification Exam, April 13th or April 10th** | **Exam Date April 17th** 
+* Test Dates: **Qualification Exam, April 13th or April 10th** | **Exam Date April 17th**
 
 # Additional Resources
 * [Official Website](https://www.comptia.org/certifications/security)
 * [Book](https://www.amazon.com/CompTIA-Security-Get-Certified-Ahead-ebook/dp/B07652KDXM)
-* [Free Videos and Pratice Tests](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
+* [Free Videos and Practice Tests](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
 * [Exam definitions](https://drive.google.com/file/d/1XqZeBOM6JeR83Nce-k9aUkAZQV2denWs/view)
 
 # Exam Details
 
 
 | Exam Code  |  SYO-501 |  
-|:---:|:---:|
+|:--- |:---|
 | Number of Questions  |  90 |   
 | Types of Questions  | Usually 85 Multiple Choice and 5 [performanced based questions](https://www.comptia.org/testing/about-testing/performance-based-questions-explained)  |   
 | Length of Test  | 90 minutes  |   
@@ -25,14 +25,14 @@
 
 There are six domains each with their on subdomains on which will be tested on the during exam, these include:
 
-1. [Threats, Attacks, and Vulnerabilities](#Threats-Attacks-and-Vulnerabilites)
-2. [Technologies and Tools](#Technologies-and-Tools)
-3. [Architecture and Design](#Architecture-and-Design)
-4. [Identity and Access Management](#Identity-and-Access-Management)
-5. [Risk Management](#Risk-Management)
-6. [Cryptography and PKI](#Cryptography-and-PKI)
+- [ ] 1. [Threats, Attacks, and Vulnerabilities](#Threats-Attacks-and-Vulnerabilities)
+- [ ] 2. [Technologies and Tools](#Technologies-and-Tools)
+- [ ] 3. [Architecture and Design](#Architecture-and-Design)
+- [ ] 4. [Identity and Access Management](#Identity-and-Access-Management)
+- [ ] 5. [Risk Management](#Risk-Management)
+- [ ] 6. [Cryptography and PKI](#Cryptography-and-PKI)
 
-# Threats, Attacks, and Vulnerabilites 
+# Threats, Attacks, and Vulnerabilities
 * 1.1 Given a scenario, analyze indicators of compromise
 and determine the type of malware.
 
@@ -40,39 +40,39 @@ and determine the type of malware.
 
 * 1.3 Explain threat actor types and attributes
 
-* 1.4 Explain penetration testing concepts. 
+* 1.4 Explain penetration testing concepts.
 
-* 1.5 Explain vulnerability scanning concepts. 
+* 1.5 Explain vulnerability scanning concepts.
 
 * 1.6 Explain the impact associated with types of vulnerabilities.
 
 # Technologies and Tools
-* 2.1 Install and configure network components, both hardwareand software-based, to support organizational security. 
+* 2.1 Install and configure network components, both hardware and software-based, to support organizational security.
 
 * 2.2 Given a scenario, use appropriate software tools
 to assess the security posture of an organization.
 
-* 2.3 Given a scenario, troubleshoot common security issues. 
+* 2.3 Given a scenario, troubleshoot common security issues.
 
 * 2.4 Given a scenario, analyze and interpret output from security technologies.
 
-* 2.5 Given a scenario, deploy mobile devices securely. 
+* 2.5 Given a scenario, deploy mobile devices securely.
 
 * 2.6 Given a scenario, implement secure protocols.
 
 # Architecture and Design
 * 3.1 Explain use cases and purpose for frameworks, best
-practices and secure configuration guides. 
+practices and secure configuration guides.
 
-* 3.2 Given a scenario, implement secure network architecture concepts. 
+* 3.2 Given a scenario, implement secure network architecture concepts.
 
 * 3.3 Given a scenario, implement secure systems design.
 
 * 3.4 Explain the importance of secure staging deployment concepts.
 
-* 3.5 Explain the security implications of embedded systems. 
+* 3.5 Explain the security implications of embedded systems.
 
-* 3.6 Summarize secure application development and deployment concepts. 
+* 3.6 Summarize secure application development and deployment concepts.
 
 * 3.7 Summarize cloud and virtualization concepts.
 
@@ -117,4 +117,3 @@ procedures related to organizational security
 * 6.3 Given a scenario, install and configure wireless security settings.
 
 * 6.4 Given a scenario, implement public key infrastructure.
-
