@@ -8,10 +8,13 @@
 
 # Additional Resources
 * [Official Website](https://www.comptia.org/certifications/security)
-* [Official Exam Objectives and Acronyms](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
+* [Official Exam Objectives](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 * [Book](https://www.amazon.com/CompTIA-Security-Get-Certified-Ahead-ebook/dp/B07652KDXM)
 * [Free Videos and Practice Tests](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
 * [Exam definitions](https://drive.google.com/file/d/1XqZeBOM6JeR83Nce-k9aUkAZQV2denWs/view)
+* [Encryption Cheat Sheet](https://phoenixts.com/wp-content/uploads/2015/08/Encryption-Cheat-Sheet.pdf)
+* [Terminology](https://phoenixts.com/wp-content/uploads/2015/08/Security-Terms.pdf)
+* [Acronyms](https://phoenixts.com/wp-content/uploads/2015/08/Security-Acronyms.pdf)
 
 
 # Exam Details
