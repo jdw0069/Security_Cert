@@ -1,3 +1,5 @@
+<img src="header.png" width="650" height="200" />
+
 # Administrative Items
 
 * Time: **Thursday's from 5:00pm-6:00pm**
@@ -18,7 +20,7 @@
 | Number of Questions  |  90 |   
 | Types of Questions  | Usually 85 Multiple Choice and 5 [performanced based questions](https://www.comptia.org/testing/about-testing/performance-based-questions-explained)  |   
 | Length of Test  | 90 minutes  |   
-| Passing Score | 750 (on a scale of 100-900) |
+| Passing Score | 750 (on a scale of 100-900), roughly 83% to pass |
 | Price | $339 |
 
 # Course Outline
@@ -120,19 +122,19 @@ procedures related to organizational security
 
 # Course Structure
 
-| Dates  | Topics Covered  |
-|:--:|:---:|
-| Week 1 | 1.1 - 1.3   |
-| Week 2   | 1.3 - 1.6 |
-| Week 3  | 2.1 - 2.3  |
-| Week 4  | 2.4 - 2.6  |
-| Week 5  | 3.3 - 3.6  |
-| Week 6  | 4.1 - 4.2  |
-| Week 7  | 4.3 - 4.4  |
-| Week 8  | 5.1 - 5.4  |
-| Week 9  | 5.5 - 5.8  |
-| Week 10 | 6.1 - 6.2  |
-| Week 11 |  6.3 - 6.4 |
+| Dates  | Topics Covered  |  Reference |
+|:--:|:--:| :--: |
+| Week 1 | 1.1 - 1.3   | |
+| Week 2   | 1.3 - 1.6 | |
+| Week 3  | 2.1 - 2.3  | |
+| Week 4  | 2.4 - 2.6  | |
+| Week 5  | 3.3 - 3.6  | |
+| Week 6  | 4.1 - 4.2  | |
+| Week 7  | 4.3 - 4.4  | |
+| Week 8  | 5.1 - 5.4  | |
+| Week 9  | 5.5 - 5.8  | |
+| Week 10 | 6.1 - 6.2  | |
+| Week 11 |  6.3 - 6.4 | |
 
 
 * #### Week 12
