@@ -1,4 +1,4 @@
-<img src="header.png" width="1000" height="300" />
+<img src="header.png" width="650" height="200" />
 
 # Administrative Items
 
@@ -8,9 +8,11 @@
 
 # Additional Resources
 * [Official Website](https://www.comptia.org/certifications/security)
+* [Official Exam Objectives and Acronyms](https://www.comptia.jp/pdf/Security%2B%20SY0-501%20Exam%20Objectives.pdf)
 * [Book](https://www.amazon.com/CompTIA-Security-Get-Certified-Ahead-ebook/dp/B07652KDXM)
 * [Free Videos and Practice Tests](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
 * [Exam definitions](https://drive.google.com/file/d/1XqZeBOM6JeR83Nce-k9aUkAZQV2denWs/view)
+
 
 # Exam Details
 
@@ -122,19 +124,19 @@ procedures related to organizational security
 
 # Course Structure
 
-| Dates  | Topics Covered  |  Reference |
-|:--:|:--:| :--: |
-| Week 1 | 1.1 - 1.3   | |
-| Week 2   | 1.3 - 1.6 | |
-| Week 3  | 2.1 - 2.3  | |
-| Week 4  | 2.4 - 2.6  | |
-| Week 5  | 3.3 - 3.6  | |
-| Week 6  | 4.1 - 4.2  | |
-| Week 7  | 4.3 - 4.4  | |
-| Week 8  | 5.1 - 5.4  | |
-| Week 9  | 5.5 - 5.8  | |
-| Week 10 | 6.1 - 6.2  | |
-| Week 11 |  6.3 - 6.4 | |
+| Dates  | Topics Covered  | Reference(Presentations) | Reference(Book)  |
+|:--:|:--:| :--: | :--: |
+| Week 1 | 1.1 - 1.3   | Slides 0,1,2,12, 13 |
+| Week 2   | 1.3 - 1.6 | Slide 12 |
+| Week 3  | 2.1 - 2.3  | Slides 3,4,6 |
+| Week 4  | 2.4 - 2.6  | Slides 3,4,6 |
+| Week 5  | 3.0 - 3.9  | Slide 14 |
+| Week 6  | 4.1 - 4.2  | Slide 15 |
+| Week 7  | 4.3 - 4.4  | Slide 15 |
+| Week 8  | 5.1 - 5.4  | Slides 16,17|
+| Week 9  | 5.5 - 5.8  | Slides 16,17|
+| Week 10 | 6.1 - 6.2  | Slide 11|
+| Week 11 |  6.3 - 6.4 | Slide 11|
 
 
 * #### Week 12
