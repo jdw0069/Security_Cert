@@ -1,4 +1,4 @@
-<img src="header.png" width="650" height="200" />
+<img src="header.png" width="900" height="250" />
 
 # Administrative Items
 
