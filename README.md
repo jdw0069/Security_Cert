@@ -15,7 +15,7 @@
   * [Extra Test Questions from Book](https://gcgapremium.com/501-extra-ptqs/)
   * [Additional Book Resources](https://gcgapremium.com/501-resources/)
 
-  
+
 * [Free Videos and Practice Tests](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
 
 * [Exam definitions](https://drive.google.com/file/d/1XqZeBOM6JeR83Nce-k9aUkAZQV2denWs/view)
@@ -149,7 +149,7 @@ procedures related to organizational security
 
 | Dates  | Topics Covered  | Reference(Presentations) | Reference(Book)  |
 |:--:|:--:| :--: | :--: |
-| Week 0 |    Review   | Slides 0, 1, 2 | Chapter 1|
+| Week 0 |    Review, Pre-Assessment Exam   | Slides 0, 1, 2 | Chapter 1|
 | Week 1 | 1.1 - 1.3   | Slides 0, 1, 2, 12, 13 | Chapter 3, 6, 7, 9, 10 |
 | Week 2   | 1.3 - 1.6 | Slide 12 | Chapter 2, 5, 6, 7, 8, 9, 10 |
 | Week 3  | 2.1 - 2.3  | Slides 3, 4, 6 | Chapter 1, 2, 3, 4, 5, 6, 8, 9, 10, 11 |
