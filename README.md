@@ -42,7 +42,7 @@
 
 There are six domains each with their on subdomains on which will be tested on the during exam, these include:
 
-- [ ] 0. [Review](#Review)
+- [x] 0. [Review](#Review)
 - [ ] 1. [Threats, Attacks, and Vulnerabilities](#Threats-Attacks-and-Vulnerabilities)
 - [ ] 2. [Technologies and Tools](#Technologies-and-Tools)
 - [ ] 3. [Architecture and Design](#Architecture-and-Design)
@@ -149,7 +149,7 @@ procedures related to organizational security
 
 | Dates  | Topics Covered  | Reference(Presentations) | Reference(Book)  |
 |:--:|:--:| :--: | :--: |
-| Week 0 |    Review, Pre-Assessment Exam   | Slides 0, 1, 2 | Chapter 1|
+| <del> Week 0 |   <del> Review, Pre-Assessment Exam   | <del> Slides 0, 1, 2 | <del> Chapter 1|
 | Week 1 | 1.1 - 1.3   | Slides 0, 1, 2, 12, 13 | Chapter 3, 6, 7, 9, 10 |
 | Week 2   | 1.3 - 1.6 | Slide 12 | Chapter 2, 5, 6, 7, 8, 9, 10 |
 | Week 3  | 2.1 - 2.3  | Slides 3, 4, 6 | Chapter 1, 2, 3, 4, 5, 6, 8, 9, 10, 11 |
