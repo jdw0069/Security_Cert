@@ -16,7 +16,9 @@
   * [Additional Book Resources](https://gcgapremium.com/501-resources/)
 
 
-* [Free Videos and Practice Tests](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
+* [Free Videos](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
+
+* [Free Practice tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 
 * [Exam definitions](https://drive.google.com/file/d/1XqZeBOM6JeR83Nce-k9aUkAZQV2denWs/view)
 
