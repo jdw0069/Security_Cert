@@ -44,9 +44,9 @@
 
 There are six domains each with their on subdomains on which will be tested on the during exam, these include:
 
-- [x] 0. [Review](#Review)
-- [x] 1. [Threats, Attacks, and Vulnerabilities](#Threats-Attacks-and-Vulnerabilities)
-- [x] 2. [Technologies and Tools](#Technologies-and-Tools)
+- [ ] 0. [Review](#Review)
+- [ ] 1. [Threats, Attacks, and Vulnerabilities](#Threats-Attacks-and-Vulnerabilities)
+- [ ] 2. [Technologies and Tools](#Technologies-and-Tools)
 - [ ] 3. [Architecture and Design](#Architecture-and-Design)
 - [ ] 4. [Identity and Access Management](#Identity-and-Access-Management)
 - [ ] 5. [Risk Management](#Risk-Management)
@@ -151,10 +151,10 @@ procedures related to organizational security
 
 | Dates  | Topics Covered  | Reference(Presentations) | Reference(Book)  |
 |:--:|:--:| :--: | :--: |
-| <del> Week 0 |   <del> Review, Pre-Assessment Exam   | <del> Slides 0, 1, 2 | <del> Chapter 1|
-| <del> Week 1 | <del> 1.1 - 1.3  | <del> Slides 0, 1, 2, 12, 13 | <del>Chapter 3, 6, 7, 9, 10 |
-| <del>Week 2  | <del>1.3 - 1.6   | <del> Slide 12               | <del>Chapter 2, 5, 6, 7, 8, 9, 10 |
-| <del>Week 3  | <del>2.1 - 2.3   | <del> Slides 3, 4, 6 | <del>Chapter 1, 2, 3, 4, 5, 6, 8, 9, 10, 11 |
+| Week 0 |  Review, Pre-Assessment Exam   | Slides 0, 1, 2 | Chapter 1|
+| Week 1 |  1.1 - 1.3  |  Slides 0, 1, 2, 12, 13 | Chapter 3, 6, 7, 9, 10 |
+| Week 2  |  1.3 - 1.6   |  Slide 12               | Chapter 2, 5, 6, 7, 8, 9, 10 |
+| Week 3  |  2.1 - 2.3   | <del> Slides 3, 4, 6 | <del>Chapter 1, 2, 3, 4, 5, 6, 8, 9, 10, 11 |
 | Week 4  | 2.4 - 2.6  | Slides 3, 4, 6 | Chapter 2, 3, 4, 5, 6, 10 |
 | Week 5  | 3.0 - 3.9  | Slide 14 | Chapter 1, 2, 3, 4, 5, 6, 7, 8, 9 |
 | Week 6  | 4.1 - 4.2  | Slide 15 | Chapter 2, 4 |
@@ -166,7 +166,6 @@ procedures related to organizational security
 
 
 * #### Week 12
-  * Qualification Exam
-
-* #### Week 13
   * Exam Day
+
+
