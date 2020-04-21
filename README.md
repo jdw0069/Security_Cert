@@ -4,7 +4,7 @@
 
 * Time: **Thursday's from 5:00pm-6:00pm**
 * Location: **TBD**
-* Test Dates: **Qualification Exam, TBD** | **Exam Date, TBD**
+* Test Dates: **Exam Date, TBD**
 
 # Additional Resources
 * [Official Website](https://www.comptia.org/certifications/security)
@@ -154,7 +154,7 @@ procedures related to organizational security
 | Week 0 |  Review, Pre-Assessment Exam   | Slides 0, 1, 2 | Chapter 1|
 | Week 1 |  1.1 - 1.3  |  Slides 0, 1, 2, 12, 13 | Chapter 3, 6, 7, 9, 10 |
 | Week 2  |  1.3 - 1.6   |  Slide 12               | Chapter 2, 5, 6, 7, 8, 9, 10 |
-| Week 3  |  2.1 - 2.3   | <del> Slides 3, 4, 6 | <del>Chapter 1, 2, 3, 4, 5, 6, 8, 9, 10, 11 |
+| Week 3  |  2.1 - 2.3   |  Slides 3, 4, 6 | Chapter 1, 2, 3, 4, 5, 6, 8, 9, 10, 11 |
 | Week 4  | 2.4 - 2.6  | Slides 3, 4, 6 | Chapter 2, 3, 4, 5, 6, 10 |
 | Week 5  | 3.0 - 3.9  | Slide 14 | Chapter 1, 2, 3, 4, 5, 6, 7, 8, 9 |
 | Week 6  | 4.1 - 4.2  | Slide 15 | Chapter 2, 4 |
