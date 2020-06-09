@@ -44,10 +44,10 @@
 
 There are six domains each with their on subdomains on which will be tested on the during exam, these include:
 
-- [ ] 0. [Review](#Review)
-- [ ] 1. [Threats, Attacks, and Vulnerabilities](#Threats-Attacks-and-Vulnerabilities)
-- [ ] 2. [Technologies and Tools](#Technologies-and-Tools)
-- [ ] 3. [Architecture and Design](#Architecture-and-Design)
+- [x] 0. [Review](#Review)
+- [x] 1. [Threats, Attacks, and Vulnerabilities](#Threats-Attacks-and-Vulnerabilities)
+- [x] 2. [Technologies and Tools](#Technologies-and-Tools)
+- [x] 3. [Architecture and Design](#Architecture-and-Design)
 - [ ] 4. [Identity and Access Management](#Identity-and-Access-Management)
 - [ ] 5. [Risk Management](#Risk-Management)
 - [ ] 6. [Cryptography and PKI](#Cryptography-and-PKI)
